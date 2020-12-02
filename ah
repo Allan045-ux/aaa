@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 ,Fox action
+http://89.105.194.59:25461/live/5spk$QW/5spk$QW/19.m3u8
+
+#EXTINF:-1 ,Los Simpson
+http://89.105.194.59:25461/live/spen!gF9/spen!gF9/68.m3u8
+
+#EXTINF:-1 ,Canal 5
+https://inpagepush.com/801/
